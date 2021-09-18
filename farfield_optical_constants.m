@@ -806,11 +806,11 @@ for a = 1 : length(view_lamda)
 end
 
 figure()
-plot(view_lamda,C_abs,'LineWidth',2);
-title('Abs cross section')
+plot(view_lamda,C_sca,'LineWidth',2);
+title('Sca cross section')
 set(gca,'FontWeight','bold','fontsize',12)
 xlabel('Wavelength (nm)');
-ylabel('C_{abs}');
+ylabel('C_{sca}');
 
 % save revision/csca_1cube_750_1000_thz.mat...
 %     eps_bg...
