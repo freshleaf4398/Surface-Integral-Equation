@@ -1,4 +1,4 @@
-# BEM with surface integral equation (SIE) method
+# Lamia version 1.2 - BEM with surface integral equation (SIE) method
 Calculating optical cross sections from an arbitrary scatterer using surface integral equation.
 
 Run the code through ``runner.m``.
